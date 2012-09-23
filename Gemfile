@@ -1,15 +1,12 @@
 source 'https://rubygems.org'
 
-gem 'rails', '3.2.1'
-
-# Bundle edge Rails instead:
-source 'https://rubygems.org'
-
-gem 'rails', '3.2.8'
+gem 'rails', '3.2.3'
+ruby '1.9.3'
 
 group :development do
   gem 'sqlite3', '1.3.5'
 end
+
 
 
 # Gems used only for assets and not required
